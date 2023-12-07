@@ -2,17 +2,21 @@
 
 LLM을 텍스트 임베딩 성능 개선에 도입한 연구로 비용적인 측면에서 저비용의 임베딩 모델과 작은 파라미터를 가진 LLM 모델을 사용하여 임베딩 성능을 개선함으로써 저비용으로 고효율 실현한다.
 
-코드는 [여기](#https://github.com/EMBwithLLM/EMBwithLLM)서 확인할 수 있습니다.
+코드는 [여기](https://github.com/EMBwithLLM/EMBwithLLM)서 확인할 수 있습니다.
 
 논문은 [여기](#)서 확인할 수 있습니다.
 
 ## Team Member
 
 이호영: [https://github.com/ihobbang250]
+
 이원석: [https://github.com/leew0nseok] 
+
 이수경: [https://github.com/sugyeong-lee] 
-김예인: 
-김동휘:
+
+김예인
+
+김동휘
 
 
 ## Embedding Model
