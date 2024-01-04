@@ -12,12 +12,6 @@ LLM을 텍스트 임베딩 성능 개선에 도입한 연구로 비용적인 측
 
 이원석: [https://github.com/leew0nseok] 
 
-이수경: [https://github.com/sugyeong-lee] 
-
-김예인
-
-김동휘
-
 
 ## Embedding Model
 
